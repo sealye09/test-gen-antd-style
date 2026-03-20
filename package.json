@@ -1,0 +1,21 @@
+{
+  "name": "test-gen-antd-style",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "style": "tsx build.jsx"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ant-design/static-style-extract": "^2.1.0",
+    "antd": "^6.3.3",
+    "fs-extra": "^11.3.4",
+    "minimist": "^1.2.8",
+    "module": "^2.0.0",
+    "path": "^0.12.7",
+    "react": "^19.2.4",
+    "tsx": "^4.21.0"
+  }
+}
